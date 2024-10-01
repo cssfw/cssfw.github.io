@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://cssfw.github.io</id>
+    <title>送分王的小博客</title>
+    <updated>2024-10-01T16:40:45.350Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://cssfw.github.io"/>
+    <link rel="self" href="https://cssfw.github.io/atom.xml"/>
+    <subtitle>我的小博客</subtitle>
+    <logo>https://cssfw.github.io/images/avatar.png</logo>
+    <icon>https://cssfw.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, 送分王的小博客</rights>
+    <entry>
+        <title type="html"><![CDATA[留言板]]></title>
+        <id>https://cssfw.github.io/post/liu-yan-ban/</id>
+        <link href="https://cssfw.github.io/post/liu-yan-ban/">
+        </link>
+        <updated>2024-10-01T15:00:01.000Z</updated>
+        <content type="html"><![CDATA[<p>可以留言你想要的内容，或者反馈给我😘🤗😁<br>
+本人已经上初2，可能要过一会才会看留言，急事建议直接联系我qq🤓🤤😭</p>
+]]></content>
+    </entry>
+</feed>
